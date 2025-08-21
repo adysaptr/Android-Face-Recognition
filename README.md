@@ -37,7 +37,7 @@
 - Basic understanding of **TensorFlow Lite** and **FaceNet**
 
 # 📚 Documentation
-![Result](src/doc1.png)
+![Result](doc.png)
 
 ## 🙏 Thank You
 Thank you for visiting this repository! If this project is useful, don't forget to give it a ⭐ so that more people can find it.
