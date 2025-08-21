@@ -5,12 +5,15 @@
 ![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey?logo=sqlite)
 ![TensorFlow](https://img.shields.io/badge/Model-FaceNet-orange?logo=tensorflow)
 
+## Table of Content
+- [Description](#description)
+- [Features](#description)
+- [Tech Stack](#-features)
+- [Prerequisites](#-requirements)
+- [Documentation](#-documentation)
+
 ## Description
 **Android Face Recognition** is a mobile application that implements **FaceNet** for real-time facial recognition directly on an Android device. The app performs **face detection**, **face embedding generation**, and **face matching** without relying on external servers. All embeddings are stored locally using **SQLite**, ensuring offline functionality and faster processing.
-
-## Table of Content
-
-
 
 ## 🔍 Features
 - ✅ Real-time **face detection and recognition**
@@ -26,11 +29,16 @@
 - **SQLite Database**
 - **OpenCV (for image processing)**
 
-## 🛡 Prerequisites
+## 🛠️ Prerequisites
 - **Android Studio** (latest version)
 - **Gradle build tools**
 - **Android device (min. API 21)**
 - Internet access (only for initial model download)
 - Basic understanding of **TensorFlow Lite** and **FaceNet**
 
-# Documentation
+# 📚 Documentation
+
+## 🙏 Thank You
+Thank you for visiting this repository! If this project is useful, don't forget to give it a ⭐ so that more people can find it.
+
+Created with 💻 by [Ady Saputra](https://github.com/adysaptr
