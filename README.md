@@ -9,7 +9,7 @@
 - [Description](#description)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
-- [Prerequisites](#-rerequisites)
+- [Prerequisites](#%EF%B8%8F-rerequisites)
 - [Documentation](#-documentation)
 
 ## Description
