@@ -9,7 +9,7 @@
 - [Description](#description)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
-- [Prerequisites](#%EF%B8%8F-rerequisites)
+- [Prerequisites](#%EF%B8%8F-prerequisites)
 - [Documentation](#-documentation)
 
 ## Description
@@ -22,7 +22,7 @@
 - ✅ Works **offline** without internet connectivity
 - ✅ Supports multiple user profiles
 
-## 🛠 Tech Stack
+## ✨ Tech Stack
 - **Android SDK**
 - **Java / Kotlin**
 - **FaceNet Model (TensorFlow Lite)**
