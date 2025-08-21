@@ -7,9 +7,9 @@
 
 ## Table of Content
 - [Description](#description)
-- [Features](#description)
-- [Tech Stack](#-features)
-- [Prerequisites](#-requirements)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Prerequisites](#-rerequisites)
 - [Documentation](#-documentation)
 
 ## Description
